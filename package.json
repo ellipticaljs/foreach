@@ -24,7 +24,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/manuelstofer/foreach"
+        "url": "https://github.com/tachyon1337/foreach.git"
     },
     "keywords": [
         "shim",
