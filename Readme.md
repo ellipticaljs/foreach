@@ -3,6 +3,8 @@
 
 Iterate over the key value pairs of either an array-like object or a dictionary like object.
 
+UMD Fork
+
 [![browser support][1]][2]
 
 ## API
