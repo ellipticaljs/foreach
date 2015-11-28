@@ -1,7 +1,7 @@
 {
     "name": "foreach",
     "description": "foreach UMD + npm package",
-    "version": "2.0.5",
+    "version": "2.0.6",
     "author": "Manuel Stofer <manuel@takimata.ch>",
     "contributors": [
       {
@@ -24,7 +24,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/tachyon1337/foreach.git"
+        "url": "https://github.com/ellipticaljs/foreach.git"
     },
     "keywords": [
         "shim",
