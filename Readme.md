@@ -1,6 +1,10 @@
 
 # foreach
 
+# NOTICE
+
+This repo is now deprecated. The project has moved to https://github.com/ellipticaljs/foreach
+
 Iterate over the key value pairs of either an array-like object or a dictionary like object.
 
 UMD Fork
